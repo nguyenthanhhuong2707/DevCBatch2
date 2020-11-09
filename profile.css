@@ -1,0 +1,61 @@
+body
+{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    overflow: hidden;
+}
+.title
+{
+    padding-left: 50px;
+    padding-top: 9px;
+    color: white;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background-color: #e17055;
+    height: 40px;
+    font-weight: bold;
+    position: absolute;
+    width: 100%;
+    text-transform: uppercase;
+}
+.quote
+{
+    position: absolute;
+    padding-left: 750px;
+    height: 30px;
+    width: 100%;
+    padding-top: 10px;
+    font-size: 14px;
+    color: white;
+}
+.content
+{
+    padding-top: 70px;
+    font-size: 33px;
+    letter-spacing: 1px;
+    color: #e17055;
+    font-weight: bold;
+    padding-left: 100px;
+    
+}
+.avauser
+{
+    width: 180px;
+    height: 160px;
+    margin-left: 520px;
+    border-radius: 80px 80px;
+}
+.inforuser
+{
+    padding-top: 40px;
+    font-weight: bold;
+    padding-left: 450px;
+}
+
